@@ -1,0 +1,3 @@
+.env
+dms/__pycache__/
+dms/extractors/__pycache__/
